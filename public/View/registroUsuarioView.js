@@ -14,6 +14,11 @@ document.getElementById('registerButton')
         }
     });
 
+
+    //Hola
+    
+
+
     //Destructuring
     // var [a, ,b] = [1, 2, 3];
     // var [a, ...b] = [1, 2, 3];
